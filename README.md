@@ -1,4 +1,11 @@
-# SKYBackpack
+# 🏆 SKYBackpack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Minecraft-1.21-5E7C16?style=for-the-badge&logo=minecraft&logoColor=white" alt="Minecraft 1.21" />
+  <img src="https://img.shields.io/badge/Spigot-API-F27B29?style=for-the-badge" alt="Spigot API" />
+  <img src="https://img.shields.io/badge/Java-21-E76F00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java 21" />
+  <img src="https://img.shields.io/badge/Author-USMCsky-6A4C93?style=for-the-badge&logo=github&logoColor=white" alt="Author USMCsky" />
+</p>
 
 SKYBackpack is a simple Spigot plugin that adds a craftable **54-slot virtual backpack** for each player.
 
