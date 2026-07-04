@@ -1,0 +1,9 @@
+name: SKYBackpack
+version: '${version}'
+description: Craftable 54-slot virtual backpack plugin.
+
+main: com.usmcsky
+api-version: '1.21'
+
+authors: [ USMCsky ]
+website: https://www.github.com/usmcsky
