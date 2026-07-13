@@ -7,7 +7,11 @@
   <img src="https://img.shields.io/badge/Author-USMCsky-6A4C93?style=for-the-badge&logo=github&logoColor=white" alt="Author USMCsky" />
 </p>
 
-SKYBackpack is a simple Spigot plugin that adds a craftable **54-slot virtual backpack** for each player. Its actually a chest that you carry on your hotbar. Right click on anything to open. Will not lose inventory on death. Just craft another "backpack" and presto. Inventory recovered.
+SKYBackpack is a simple Spigot plugin that adds a craftable **54-slot virtual backpack** for each player. 
+
+Its actually a chest that you carry on your hotbar. Right click on anything to open. 
+
+Will not lose inventory on death. Just craft another "backpack" and presto. Inventory recovered.
 
 ## What it does
 
